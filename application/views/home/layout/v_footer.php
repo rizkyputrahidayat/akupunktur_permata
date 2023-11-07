@@ -81,7 +81,7 @@
 
  <div id="preloader"></div>
  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
- <a href="https://wa.me/6281210211189?text=Hallo%20admin%20Akupuntur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" class="wa-floating d-flex align-items-center justify-content-center" target="_blank"><i class="bi bi-whatsapp"></i></a>
+ <a href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." class="wa-floating d-flex align-items-center justify-content-center" target="_blank"><i class="bi bi-whatsapp"></i></a>
 
  <!-- Vendor JS Files -->
  <script src="<?= base_url(); ?>/assets/home/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

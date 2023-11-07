@@ -51,7 +51,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
                 <div class="suscribe-text text-center">
                     <h3>Konsultasikan tentang kesehatan anda pada kami</h3>
-                    <a class="sus-btn" href="https://wa.me/6281210211189?text=Hallo%20admin%20akupunktur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" target="_blank">Free Konsultasi</a>
+                    <a class="sus-btn" href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." target="_blank">Free Konsultasi</a>
                 </div>
             </div>
         </div>
@@ -120,7 +120,7 @@
             <div class="px-5 py-5 py-lg-0">
                 <h2>Mempunyai Keluhan Dengan Kesehatan Anda</h2>
                 <h5>Jangan Ragu untu datang atau menghubungi kami!</h5>
-                <a href="https://wa.me/6281210211189?text=Hallo%20admin%20akupunktur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" target="_blank" class="ready-btn scrollto">Hubungi Kami</a>
+                <a href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." target="_blank" class="ready-btn scrollto">Hubungi Kami</a>
             </div>
         </div>
     </div>

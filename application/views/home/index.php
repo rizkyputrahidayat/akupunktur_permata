@@ -85,7 +85,7 @@
               <div class="container">
                 <p class="animate__animated animate__fadeInUp">AKUPUNKTUR PERMATA</p>
                 <h2 class="animate__animated animate__fadeInDown">"Solusi Efektif untuk Nyeri Otot, Tulang, dan Sendi Anda"</h2>
-                <a href="https://wa.me/6281210211189?text=Hallo%20admin%20Akupunktur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
+                <a href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
               </div>
             </div>
           </div>
@@ -95,7 +95,7 @@
               <div class="container">
                 <p class="animate__animated animate__fadeInUp">AKUPUNKTUR PERMATA</p>
                 <h2 class="animate__animated animate__fadeInDown">"Solusi Efektif untuk Nyeri Otot, Tulang, dan Sendi Anda"</h2>
-                <a href="https://wa.me/6281210211189?text=Hallo%20admin%20Akupunktur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
+                <a href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
               </div>
             </div>
           </div>
@@ -105,7 +105,7 @@
               <div class="container">
                 <p class="animate__animated animate__fadeInUp">AKUPUNKTUR PERMATA</p>
                 <h2 class="animate__animated animate__fadeInDown">"Solusi Efektif untuk Nyeri Otot, Tulang, dan Sendi Anda"</h2>
-                <a href="https://wa.me/6281210211189?text=Hallo%20admin%20Akupunktur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
+                <a href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
               </div>
             </div>
           </div>
@@ -357,7 +357,7 @@
           <div class="px-5 py-5 py-lg-0">
             <h2>Mempunyai Keluhan Dengan Kesehatan Anda</h2>
             <h5>Jangan Ragu untu datang atau menghubungi kami!</h5>
-            <a href="https://wa.me/6281210211189?text=Hallo%20admin%20Akupunktur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" target="_blank" class="ready-btn scrollto">Hubungi Kami</a>
+            <a href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." target="_blank" class="ready-btn scrollto">Hubungi Kami</a>
           </div>
         </div>
       </div>
@@ -370,7 +370,7 @@
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
             <div class="suscribe-text text-center">
               <h3>Konsultasikan tentang kesehatan anda pada kami</h3>
-              <a class="sus-btn" href="https://wa.me/6281210211189?text=Hallo%20admin%20Akupunktur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" target="_blank">Free Konsultasi</a>
+              <a class="sus-btn" href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." target="_blank">Free Konsultasi</a>
             </div>
           </div>
         </div>
@@ -518,7 +518,7 @@
 
   <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-  <a href="https://wa.me/6281210211189?text=Hallo%20admin%20Akupunktur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" class="wa-floating d-flex align-items-center justify-content-center" target="_blank"><i class="bi bi-whatsapp"></i></a>
+  <a href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." class="wa-floating d-flex align-items-center justify-content-center" target="_blank"><i class="bi bi-whatsapp"></i></a>
   <!-- Vendor JS Files -->
   <script src="<?= base_url(); ?>/assets/home/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="<?= base_url(); ?>/assets/home/assets/vendor/glightbox/js/glightbox.min.js"></script>

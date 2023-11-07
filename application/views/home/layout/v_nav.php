@@ -13,7 +13,7 @@
               <div class="container">
                 <p class="animate__animated animate__fadeInUp">AKUPUNTUR PERMATA</p>
                 <h2 class="animate__animated animate__fadeInDown">"Solusi Efektif untuk Nyeri Otot, Tulang, dan Sendi Anda"</h2>
-                <a href="https://wa.me/6281210211189?text=Hallo%20admin%20Akupuntur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
+                <a href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
               </div>
             </div>
           </div>
@@ -23,7 +23,7 @@
               <div class="container">
                 <p class="animate__animated animate__fadeInUp">AKUPUNTUR PERMATA</p>
                 <h2 class="animate__animated animate__fadeInDown">"Solusi Efektif untuk Nyeri Otot, Tulang, dan Sendi Anda"</h2>
-                <a href="https://wa.me/6281210211189?text=Hallo%20admin%20Akupuntur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
+                <a href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." target="_blank" class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
               </div>
             </div>
           </div>
@@ -33,7 +33,7 @@
               <div class="container">
                 <p class="animate__animated animate__fadeInUp">AKUPUNTUR PERMATA</p>
                 <h2 class="animate__animated animate__fadeInDown">"Solusi Efektif untuk Nyeri Otot, Tulang, dan Sendi Anda"</h2>
-                <a href="https://wa.me/6281210211189?text=Hallo%20admin%20Akupuntur%20Permata.%20Saya%20Ingin%20Konsultasi%20Mengenai%20keluhan%20Saya" class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
+                <a href="https://api.whatsapp.com/send/?phone=6281210211189&text=Halo%20Akupunktur%20Permata%2C%0A%0ASaya%20minta%20jadwal%20kunjungan%20untuk%20konsultasi%20dan%20terapi%20di%20Akupunktur%20Permata." class="btn-get-started scrollto animate__animated animate__fadeInUp"><i class="bi bi-headset"></i> CUSTOMER SERVICE</a>
               </div>
             </div>
           </div>
